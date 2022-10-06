@@ -2,7 +2,7 @@ Hello, world! 👋
 
 
 - 🔭 I'm currently working as Supply Analyst.
-- ✍️ Learning Python (Pandas/Numpy/Matplotlib) and SQL(PostgreSQL). 
+- ✍️ Learning Python (Pandas/Numpy/Matplotlib/Autopygui) and SQL(PostgreSQL). 
 - 🎓 Business Administration School graduate and graduate student in Data Science & AI. 
 - ⚡ Fun fact: Born in Spain but lived my whole life in Brazil. 🇪🇸 🇧🇷
 
