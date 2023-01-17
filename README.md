@@ -6,17 +6,7 @@ Hello, world! 👋
 - 🎓 Business Administration School graduate and graduate student in Data Science & AI. 
 - ⚡ Fun fact: Born in Spain but lived my whole life in Brazil. 🇪🇸 🇧🇷
 
-<div align="center">
-  <a href="https://github.com/GabrielBora">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielBora&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBora&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-<br> </br>
-<div align= "center"><br>
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-       
+
 </div>
     <br> </br>
 
